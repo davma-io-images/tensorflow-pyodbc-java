@@ -11,7 +11,7 @@ TensorFlow image with pyodbc == 4.0.30 and JRE
 You can download the full image from [Docker Hub](https://hub.docker.com/) with the following command.
 
 ````
-docker pull davma/python-pyodbc
+docker pull davma/tensorflow-pyodbc-jre
 ````
 
 ## 4. Image build
@@ -20,8 +20,8 @@ You can run the image build with the following commands
 
 ````
 git clone https://github.com/davma-io-images/tensorflow-pyodbc-java.git
-cd python-pyodbc
-docker build -t python-pyodbc .
+cd tensorflow-pyodbc-java
+docker build -t tensorflow-pyodbc-jre .
 ````
 
 ## 5.Documentation and guides
