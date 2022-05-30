@@ -26,4 +26,8 @@ docker build -t tensorflow-pyodbc-jre .
 
 ## 5.Documentation and guides
 
+[TensorFlow](https://www.tensorflow.org/)
+
+[docker TensorFlow](https://www.tensorflow.org/install/docker)
+
 [Microsoft ODBC 17](https://docs.microsoft.com/en-us/sql/connect/odbc/linux-mac/installing-the-microsoft-odbc-driver-for-sql-server?view=sql-server-2017)
